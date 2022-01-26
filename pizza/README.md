@@ -1,4 +1,4 @@
-Coding challange
+# Coding challange
 
 ---
 
@@ -22,4 +22,4 @@ Please note that the apis are mocked so you will always get the same response
 
 # First part of the task
 
-# Fetch the API using componentDidMount
+Fetch the API using componentDidMount
